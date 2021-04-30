@@ -37,27 +37,8 @@ seem from documentation or the code itself.
                               ~ USAGE ~
                               ~~~~~~~~~
 
-There are two categories of reusing my code, those being:
-
-A) Using the code without changing it's functionality
-   --> You shall give me proper credit as author of part of your
-       software. For details of giving me credit, see section
-       "GIVING CREDIT".
-
-B) Using the code as base for your own, somewhat functionally
-   modified version of it
-   --> You shall give me credit as author of the the base for your
-       own code. For details of giving me credit, see section
-       "GIVING CREDIT".
-
-
-                          ~~~~~~~~~~~~~~~~~
-                          ~ GIVING CREDIT ~
-                          ~~~~~~~~~~~~~~~~~
-
-When giving me credit, please use the following information:
-*Author: Robin Lemanska (OR: "GitHub user RobinLe1402")
-*Original code at: https://github.com/RobinLe1402
+Original works at: https://github.com/RobinLe1402
+My code is licensed under GNU GPLv3.
 
 
 
