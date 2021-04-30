@@ -17,7 +17,7 @@ I'll create an audio engine based on the DirectSound API in the near future. Unt
 
 
 ## License
-You can use my code for your own projects! Just please apply my self-written license (--> `LICENSE.md`)
+You can use my code for your own projects! Just make sure to apply my self-written [license](LICENSE).
 
 
 ### Keep creating! 💻⌨
