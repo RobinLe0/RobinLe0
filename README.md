@@ -1,6 +1,6 @@
 # RobinLe's Win32 C++ Sources
 ## General
-Welcome to my GitHub account! I'm a selftaught hobby C++ developer. For the most part, I'm creating platform dependent code for Microsoft Windows (x32/x64).
+Welcome to my GitHub account! I'm a selftaught hobby C++ developer. For the most part, I'm creating platform dependent code for Microsoft Windows (32/64 bit).
 
 
 
@@ -11,7 +11,9 @@ I sometimes create small tools for everyday use. These can be found in the `tool
 
 ### 🎮 Games
 Another thing I like to develope are games. I haven't finished any game yet, but in the moment I'm working on a new code base (--> `libs` repository) after abondoning my old header library (currently private). But once I'm finished with creating a solid base, I'll start with some game. Probably either a NES-style game, or a simple PNG-based 2D game, as I have no experience whatsoever with 3D graphics.
+
 OpenGL is the graphics API of my choice. Why? Well, I never tried anything else and I'm fine with it 😅
+
 I'll create an audio engine based on the DirectSound API in the near future. Until now, I've only worked with WAVEOUT.
 
 
