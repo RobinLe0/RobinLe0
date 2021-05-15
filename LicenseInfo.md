@@ -1,5 +1,7 @@
 # License info
 
+**My code is licensed under [GNU GPLv3](./LICENSE). This is just some basic/further information**
+
 This file includes some general licensing information for all files available at https://github.com/RobinLe1402.
 
 
@@ -23,7 +25,7 @@ I give no warranty for my code to work as intended or as it might seem from docu
 
 Original works at: https://github.com/RobinLe1402
 
-My code is licensed under [GNU GPLv3](./LICENSE).
+License: [GNU GPLv3](./LICENSE)
 
 
 
