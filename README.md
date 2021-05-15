@@ -2,7 +2,7 @@
 ## General
 Welcome to my GitHub account! I'm a selftaught hobby C++ developer. For the most part, I'm creating platform dependent code for Microsoft Windows (32/64 bit).
 
-**Programming Languages**
+## Programming languages
 * C++ ♥ (in my free time)
 * Delphi 👍 (in my job)
 * C# 🤏 (just from vocational school)
