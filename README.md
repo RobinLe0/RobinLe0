@@ -19,7 +19,7 @@ Another thing I like to develope are games. I haven't finished any game yet, but
 
 OpenGL is the graphics API of my choice. Why? Well, I never tried anything else and I'm fine with it 😅
 
-I've created an audio engine based on Microsoft's most modern audio API, XAudio2. It can be found here: [HPP](../../../libs/blob/main/src/rlAudioEngine.hpp), [CPP](../../../libs/blob/main/src/rlAudioEngine.cpp), [Documentation](../../../libs/wiki/Component:-rlAudioEngine)
+I've also created an audio engine based on Microsoft's most modern audio API, XAudio2.
 
 
 
