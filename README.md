@@ -2,6 +2,11 @@
 ## General
 Welcome to my GitHub account! I'm a selftaught hobby C++ developer. For the most part, I'm creating platform dependent code for Microsoft Windows (32/64 bit).
 
+## Executable downloads
+Since my repos are the home of multiple unrelated applications and the GitHub release feed is designed for this, I outsourced downloads of executables to my own website.
+
+[Download executables here](https://download.robinle.de/github/)
+
 
 ## Programming languages
 * C++ ♥ (in my free time)
