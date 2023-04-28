@@ -1,6 +1,9 @@
 # RobinLe's C++ Sources for Windows
 ## General
-Welcome to my GitHub account! I'm a selftaught hobby C++ developer. For the most part, I'm creating platform dependent code for Microsoft Windows (32/64 bit).
+Welcome to my GitHub account! I'm a selftaught hobby C++ developer. For the most part, I'm creating platform dependent code for Microsoft Windows (64 bit).
+
+| :warning: I'm currently changing the structure of my repositories. Repositories/files may be deleted or renamed at any point in time. |
+|--|
 
 ## Executable downloads
 Since my repos are the home of multiple unrelated applications and the GitHub release feed is designed for this, I outsourced downloads of executables to my own website.
@@ -9,9 +12,16 @@ Since my repos are the home of multiple unrelated applications and the GitHub re
 
 
 ## Programming languages
-* C++ ♥ (in my free time)
-* Delphi 👍 (in my job)
-* C# 🤏 (just from vocational school)
+All the public repos are written in C/C++.
+### Programming languages I have experience with
+| Language | Experience level                |
+|----------|---------------------------------|
+| C        | Experienced (1 semester)        |
+| C++      | Very experienced (self-taught)  |
+| C#       | Experienced (vocational school) |
+| Delphi   | Very experienced (workplace)    |
+| Java     | Experienced (1 semester)        |
+| NASM x86 | Basics (1 semester)             |
 
 
 ## Platform (C++)
@@ -22,6 +32,14 @@ Since my repos are the home of multiple unrelated applications and the GitHub re
 
 
 ## Themes
+
+### 📚 Libraries
+I prefer writing my own code to using someone else's code. That's why I write my own libraries, e.g. for simple graphics applications or audio output.
+
+| Repo | Description |
+|------|-------------|
+| [rlPixelWindow](https://github.com/RobinLe1402/rlPixelWindow) | A simple, bitmap-based graphics window. |
+| [rlUnits](https://github.com/RobinLe1402/libs) | Many small functions. Will be removed/renamed in the future. |
 
 ### 🛠 Tools
 I sometimes create small tools for everyday use. These can be found in the `tools` repository.
