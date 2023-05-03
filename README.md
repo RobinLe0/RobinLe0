@@ -1,19 +1,48 @@
 # RobinLe's C++ Sources for Windows
-## General
-Welcome to my GitHub account! I'm a selftaught hobby C++ developer. For the most part, I'm creating platform dependent code for Microsoft Windows (64 bit).
 
 | :warning: I'm currently changing the structure of my repositories. Repositories/files may be deleted or renamed at any point in time. |
 |--|
 
-## Executable downloads
-Since my repos are the home of multiple unrelated applications and the GitHub release feed is designed for this, I outsourced downloads of executables to my own website.
+## General
+### 🙋‍♂️ About Me
+Welcome to my GitHub account! My name is Robin and I'm a selftaught hobby C++ developer.
 
+### 🖥 Target Platform
+All my public repos consist of C/C++ code (I'm usually working with the most recent C++ standard) within [Microsoft Visual Studio](https://www.visualstudio.com) solutions.
+
+Unless noted otherwise, my code is written for Microsoft Windows (64 bit). I myself use Windows 10/11 and don't really test for compatibility with other operating systems.
+
+### License
+You can use my code for your own projects! Just make sure to apply my [license terms](LicenseInfo.md).
+
+### ⬇ External executable downloads
+Since my old repos are the home of multiple unrelated applications/libraries and the GitHub release feed is designed for this, I outsourced downloads of executables to my own website.
 [Download executables here](https://download.robinle.de/github/)
 
 
-## Programming languages
-All the public repos are written in C/C++.
-### Programming languages I have experience with
+
+## Repos
+I prefer writing my own code to using someone else's code. That's why I usually write my own libraries.
+
+### 📚 Dynamic Libraries (`.dll` files)
+I already created a few DLLs, but I'll only list them here once I'm done with the restructuring of my GitHub account.
+
+### 📚 Static Libraries (`.lib` files)
+These are created for general use in any type of application (but primarily for my own projects).
+| Repo | Description |
+|------|-------------|
+| [rlIcon](https://github.com/RobinLe1402/rlIcon) | Load multi-size icons from resources. |
+| [rlPixelWindow](https://github.com/RobinLe1402/rlPixelWindow) | A simple, bitmap-based graphics window. |
+| [rlUnits](https://github.com/RobinLe1402/libs) | Many small functions. Will be removed/renamed in the future. |
+
+### 🎮 Games
+I'm yet to actually create a game, but that's the ultimate goal of this whole GitHub account. As soon as I have everything I need, I'll start with creating a game. Probably either a NES-style game, or a simple PNG-based 2D game, as I have no experience whatsoever with 3D graphics.
+
+I use OpenGL for video output and XAudio2 for audio output.
+
+## ETC
+### Programming Languages
+These are all the programming languages I have ever worked with.
 | Language | Experience level                |
 |----------|---------------------------------|
 | C        | Experienced (1 semester)        |
@@ -22,56 +51,3 @@ All the public repos are written in C/C++.
 | Delphi   | Very experienced (workplace)    |
 | Java     | Experienced (1 semester)        |
 | NASM x86 | Basics (1 semester)             |
-
-
-## Platform (C++)
-| Category     | Product                                    |
-| ------------ | ------------------------------------------ |
-| IDE          | Microsoft Visual Studio (currently VS2022) |
-| C++ standard | Latest (currently C++20)                   |
-
-
-## Themes
-
-### 📚 Libraries
-I prefer writing my own code to using someone else's code. That's why I write my own libraries, e.g. for simple graphics applications or audio output.
-
-| Repo | Description |
-|------|-------------|
-| [rlIcon](https://github.com/RobinLe1402/rlIcon) | Load multi-size icons from resources. |
-| [rlPixelWindow](https://github.com/RobinLe1402/rlPixelWindow) | A simple, bitmap-based graphics window. |
-| [rlUnits](https://github.com/RobinLe1402/libs) | Many small functions. Will be removed/renamed in the future. |
-
-### 🛠 Tools
-I sometimes create small tools for everyday use. These can be found in the `tools` repository.
-
-### 🎮 Games
-Another thing I like to develope are games. I haven't finished any game yet, but in the moment I'm working on a new code base (--> `libs` repository) after abondoning my old header library (currently private). But once I'm finished with creating a solid base, I'll start with some game. Probably either a NES-style game, or a simple PNG-based 2D game, as I have no experience whatsoever with 3D graphics.
-
-OpenGL is the graphics API of my choice. Why? Well, I never tried anything else and I'm fine with it 😅
-
-I've also created an audio engine based on Microsoft's most modern audio API, XAudio2.
-
-
-
-## License
-You can use my code for your own projects! Just make sure to apply my [license terms](LicenseInfo.md).
-
-
-### Keep creating! 💻⌨
-
-
-<!--
-**RobinLe1402/RobinLe1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
