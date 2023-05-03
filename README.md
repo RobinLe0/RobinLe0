@@ -38,6 +38,7 @@ I prefer writing my own code to using someone else's code. That's why I write my
 
 | Repo | Description |
 |------|-------------|
+| [rlIcon](https://github.com/RobinLe1402/rlIcon) | Load multi-size icons from resources. |
 | [rlPixelWindow](https://github.com/RobinLe1402/rlPixelWindow) | A simple, bitmap-based graphics window. |
 | [rlUnits](https://github.com/RobinLe1402/libs) | Many small functions. Will be removed/renamed in the future. |
 
