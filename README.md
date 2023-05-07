@@ -32,7 +32,7 @@ These are created for general use in any type of application (but primarily for 
 | Repo | Description |
 |------|-------------|
 | [rlIcon](https://github.com/RobinLe1402/rlIcon) | Load multi-size icons from resources. |
-| [rlInput](https://github.com/RobinLe1402/rlInput) | [WiP] Unified interface for keyboard, mouse and gamepads. |
+| [rlInput](https://github.com/RobinLe1402/rlInput) | Unified interface for keyboard, mouse and gamepads. |
 | [rlPixelWindow](https://github.com/RobinLe1402/rlPixelWindow) | [WiP] A simple, bitmap-based graphics window. |
 | [rlUnits](https://github.com/RobinLe1402/libs) | Many small functions. Will be removed/renamed in the future. |
 
