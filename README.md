@@ -41,6 +41,11 @@ I'm yet to actually create a game, but that's the ultimate goal of this whole Gi
 
 I use OpenGL for video output and XAudio2 for audio output.
 
+### 🌐 Websites
+I own many domains, and I'm creating all the correlating websites myself, from the ground up (except for the standard PHP libraries).
+But most of my website repositories are private for security reasons (and because I don't want to embarrass myself😅).
+
+
 ## ETC
 ### Programming Languages
 These are all the programming languages I have ever worked with.
