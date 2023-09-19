@@ -29,12 +29,14 @@ I already created a few DLLs, but I'll only list them here once I'm done with th
 
 ### 📚 Static Libraries (`.lib` files)
 These are created for general use in any type of application (but primarily for my own projects).
-| Repo | Description |
-|------|-------------|
-| [rlIcon](https://github.com/RobinLe1402/rlIcon) | Load multi-size icons from resources. |
-| [rlInput](https://github.com/RobinLe1402/rlInput) | Unified interface for keyboard, mouse and gamepads. |
-| [rlPixelWindow](https://github.com/RobinLe1402/rlPixelWindow) | [WiP] A simple, bitmap-based graphics window. |
-| [rlUnits](https://github.com/RobinLe1402/libs) | Many small functions. Will be removed/renamed in the future. |
+| Repo                                              | Description                                                  |
+|---------------------------------------------------|--------------------------------------------------------------|
+| [rlIcon](https://rle.sh/git/rlIcon)               | Load multi-size icons from resources.                        |
+| [rlInput](https://rle.sh/git/rlInput)             | Unified interface for keyboard, mouse and gamepads.          |
+| [rlJSON](https://rle.sh/git/rlJSON)               | A JSON file parser and writer.                               |
+| [rlPixelWindow](https://rle.sh/git/rlPixelWindow) | [WiP] A simple, bitmap-based graphics window.                |
+| [rlText](https://rle.sh/git/rlText)               | Encode and decode text files.                                |
+| [rlUnits](https://rle.sh/git/libs)                | Many small functions. Will be removed/renamed in the future. |
 
 ### 🎮 Games
 I'm yet to actually create a game, but that's the ultimate goal of this whole GitHub account. As soon as I have everything I need, I'll start with creating a game. Probably either a NES-style game, or a simple PNG-based 2D game, as I have no experience whatsoever with 3D graphics.
@@ -49,7 +51,7 @@ But most of my website repositories are private for security reasons (and becaus
 ## ETC
 ### Programming Languages
 These are all the programming languages I have ever worked with.
-| Language | Experience level                |
+| Language | Experience Level                |
 |----------|---------------------------------|
 | C        | Experienced (1 semester)        |
 | C++      | Very experienced (self-taught)  |
@@ -57,3 +59,20 @@ These are all the programming languages I have ever worked with.
 | Delphi   | Very experienced (workplace)    |
 | Java     | Experienced (1 semester)        |
 | NASM x86 | Basics (1 semester)             |
+
+### Website-related Languages
+When creating a website, these are the languages I use. It's all self-taught.
+| Language   | Experience Level |
+|------------|------------------|
+| CSS        | Very experienced |
+| HTML       | Experienced      |
+| JavaScript | Experienced      |
+| PHP        | Very experienced |
+
+### Other types of Languages
+Here are a few more computer-related languages I have worked with.
+| Language | Experience Level             |
+|----------|------------------------------|
+| BAT      | Experienced (self-taught)    |
+| RegEx    | Very experienced (workplace) |
+| SQL      | Very experienced (workplace) |
