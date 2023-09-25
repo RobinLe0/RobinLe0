@@ -12,6 +12,9 @@ All my public repos consist of C/C++ code (I'm usually working with the most rec
 
 Unless noted otherwise, my code is written for Microsoft Windows (64 bit). I myself use Windows 10/11 and don't really test for compatibility with other operating systems.
 
+### My Code Guidelines
+I created a guideline document for my C/C++ code, it can be found [here](/CodeGuidelines.md).
+
 ### License
 You can use my code for your own projects! Just make sure to apply my [license terms](LicenseInfo.md).
 
