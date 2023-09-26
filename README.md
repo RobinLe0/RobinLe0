@@ -1,7 +1,7 @@
 # RobinLe's C++ Sources for Windows
 
-| :warning: I'm currently changing the structure of my repositories. Repositories/files may be deleted or renamed at any point in time. |
-|--|
+> [!WARNING]
+> I'm currently changing the structure of my repositories. Repositories/files may be deleted or renamed at any point in time.
 
 ## General
 ### 🙋‍♂️ About Me
@@ -19,7 +19,7 @@ I created a guideline document for my C/C++ code, it can be found [here](/CodeGu
 You can use my code for your own projects! Just make sure to apply my [license terms](LicenseInfo.md).
 
 ### ⬇ External executable downloads
-Since my old repos are the home of multiple unrelated applications/libraries and the GitHub release feed is designed for this, I outsourced downloads of executables to my own website.
+Since my old repos are the home of multiple unrelated applications/libraries and the GitHub release feed isn't really designed for this, I outsourced downloads of executables to my own website.
 [Download executables here](https://download.robinle.de/github/)
 
 
