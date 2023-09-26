@@ -115,6 +115,7 @@ Files referenced in my repositories cannot be located outside that repository.
 Exceptions to this rule are...
 * binaries (`*.exe`/`*.dll`)
 * big binary resources (like video files/large image files/...)
+* headers of a used library
 
 If any of these exceptions is applied, it has to be documented in the corresponding `README.md`
 file.
