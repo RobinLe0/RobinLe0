@@ -20,7 +20,7 @@ You can use my code for your own projects! Just make sure to apply my [license t
 
 ### ⬇ External executable downloads
 Since my old repos are the home of multiple unrelated applications/libraries and the GitHub release feed isn't really designed for this, I outsourced downloads of executables to my own website.
-[Download executables here](https://download.robinle.de/github/)
+[Download executables here](https://download.robinle.net/github/)
 
 
 
