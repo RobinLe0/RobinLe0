@@ -18,7 +18,7 @@ However, after a few years, it seems to me that I'm more of a general programmer
 efford and time into creating all those basic projects like a
 [text (file/data) decoder](https://rle.sh/git/rlText), a
 [bitmap-based "graphics engine"](https://rle.sh/git/rlPixelWindow), or a
-[JSON interface](https://rle.shh/git/rlJSON).
+[JSON interface](https://rle.sh/git/rlJSON).
 However, the ultimate goal is still creating video games. Most likely non-commercial ones, as I
 don't want to deal with all those business responsibilities. I'm always telling myself I'm just
 creating all that stuff because I first want a solid base for my game (I really, **really** dislike
