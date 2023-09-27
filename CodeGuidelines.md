@@ -43,8 +43,8 @@ If a repository produces binary output, this output cannot be commited.
 No direct links to any git hosting service are supplied.
 
 The only exception is functionality that is service-specific, like GitHub's
-[star list](https://github.com/RobinLe1402?tab=stars) which lets you add repos to lists, and by
-that, categorize them.
+[star list](https://github.com/RobinLe1402?tab=stars) which lets you add repos to lists, and thereby
+categorize them.
 
 Instead, the URL shortener `rle.sh` is used with the following scheme:
 
@@ -64,6 +64,19 @@ Instead, the URL shortener `rle.sh` is used with the following scheme:
 
 
 ## Source Code
+
+### Filenames
+
+#### File Extensions
+
+| Category | C\*  | C++    |
+|----------|------|--------|
+| Header   | `.h` | `.hpp` |
+| Source   | `.c` | `.cpp` |
+
+(\* either a pure C file or a file compatible with C, e.g. via `#ifdef __cplusplus`)
+
+
 
 ### Text Encoding
 All source files are to be saved as ASCII files. Non-ASCII characters have to be escaped,
@@ -186,3 +199,7 @@ of C, `char *`
 
 An exception to this rule is interfacing with APIs that require a different encoding, like the
 Win32 API which requires UTF-16 `wchar_t *`.
+
+> Repositories that comply with this rule display the following badge in their README:
+> 
+> <img src="/res/badges/utf8.svg" width="50px"/>
