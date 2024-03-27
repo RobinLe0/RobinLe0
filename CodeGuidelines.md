@@ -92,7 +92,7 @@ In special cases, however, this can be ignored.
 
 ### Documentation
 Source code documentation is done via XML documentation comments:
-```
+```cpp
 /// <summary>What does the function do?</summary>
 /// <param name="b">What does this parameter mean?</param>
 /// <returns>What does the return value mean?</returns>
@@ -137,7 +137,7 @@ My source files use **tabs**, not **spaces** for indenting source code.
 
 However, spaces may be used to get parts of source code to align to other code
 (in a monospace font), like so:
-```
+```cpp
 int test()
 {
 [tab]if (bConditionA && (bConditionB || bConditionC)
