@@ -19,18 +19,17 @@ Translation may be offered for documentation and applications.
 
 
 ### Target Platform
-The main idea is not to create portable code - however, wherever possible, platform-dependent code
+Creating portable code is not the main goal - however, wherever possible, platform-dependent code
 should be avoided.
 
-The main target platform is 64-bit Windows. 32-bit compatibility might be provided, but that is only
-optional.
+The main target platform is 64-bit Windows. 32-bit compatibility might be provided in special cases.
 
 
 
 ### DLL Interface
 All my DLLs are C-compatible with `__stdcall` as a calling convention.
 
-`.lib` files provided are for Visual Studio 2015+ (as those are all binary-compatible).
+`.lib` files provided are for Visual Studio 2015+ (as those are all binary-compatible when working with the most recent version of Visual Studio).
 
 
 
@@ -42,17 +41,15 @@ If a repository produces binary output, this output cannot be commited.
 ### Links to other repos/files
 No direct links to any git hosting service are supplied.
 
+Instead, the URL shortener `rle.sh` is used with the following scheme:
+
+| Base URL (always the same) | Repository name |
+|----------------------------|-----------------|
+| `https://rle.sh/git/`      | `RobinLe1402`   |
+
 The only exception is functionality that is service-specific, like GitHub's
 [star list](https://github.com/RobinLe1402?tab=stars) which lets you add repos to lists, and thereby
 categorize them.
-
-Instead, the URL shortener `rle.sh` is used with the following scheme:
-
-| Base URL (always the same) | Repository name | (optional) sub-path |
-|----------------------------|-----------------|---------------------|
-| `https://rle.sh/git/`      | `RobinLe1402`   | `/README.md`        |
-
-
 
 #### Examples
 * `https://rle.sh/git/RobinLe1402/#readme`
@@ -80,7 +77,7 @@ Instead, the URL shortener `rle.sh` is used with the following scheme:
 
 ### Text Encoding
 All source files are to be saved as ASCII files. Non-ASCII characters have to be escaped,
-e.g. like so: `u8"Groﬂosteim"` &rarr; `u8"Gro\u00DFostheim"`.
+e.g. like so: `u8"Gro√üosteim"` &rarr; `u8"Gro\u00DFostheim"`.
 
 An exception to this rule are markdown files like this one.
 
@@ -128,7 +125,7 @@ Files referenced in my repositories cannot be located outside that repository.
 Exceptions to this rule are...
 * binaries (`*.exe`/`*.dll`)
 * big binary resources (like video files/large image files/...)
-* headers of a used library
+* headers of another library
 
 If any of these exceptions is applied, it has to be documented in the corresponding `README.md`
 file.
