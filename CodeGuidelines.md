@@ -102,7 +102,7 @@ int DoSomething(bool b);
 
 
 ### Naming Conventions
-> [!INFO]
+> [!NOTE]
 > In C (which I usually use for dynamic libraries), a prefix like `rlText_` might be added to group
 > the identifiers of that library.
 
