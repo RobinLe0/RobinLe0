@@ -2,7 +2,7 @@
 
 **My code is licensed under [GNU GPLv3](./LICENSE). This is just some basic/further information**
 
-This file includes some general licensing information for all files available at https://github.com/RobinLe1402.
+This file includes some general licensing information for all files available at https://github.com/RobinLe0.
 
 
 ## Non-code resources
@@ -23,7 +23,7 @@ I give no warranty for my code to work as intended or as it might seem from docu
 
 ## License
 
-Original works at: https://github.com/RobinLe1402
+Original works at: https://github.com/RobinLe0
 
 License: [GNU GPLv3](./LICENSE)
 

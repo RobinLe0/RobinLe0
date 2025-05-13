@@ -45,16 +45,16 @@ Instead, the URL shortener `rle.sh` is used with the following scheme:
 
 | Base URL (always the same) | Repository name |
 |----------------------------|-----------------|
-| `https://rle.sh/git/`      | `RobinLe1402`   |
+| `https://rle.sh/git/`      | `RobinLe0`      |
 
 The only exception is functionality that is service-specific, like GitHub's
-[star list](https://github.com/RobinLe1402?tab=stars) which lets you add repos to lists, and thereby
+[star list](https://github.com/RobinLe0?tab=stars) which lets you add repos to lists, and thereby
 categorize them.
 
 #### Examples
-* `https://rle.sh/git/RobinLe1402/#readme`
-* `https://rle.sh/git/RobinLe1402/tags`
-* `https://rle.sh/git/RobinLe1402/releases`
+* `https://rle.sh/git/RobinLe0/#readme`
+* `https://rle.sh/git/RobinLe0/tags`
+* `https://rle.sh/git/RobinLe0/releases`
 
 
 
